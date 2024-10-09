@@ -1,0 +1,10 @@
+# ninja log v5
+2	251	7502081611496184	build.ninja	65fff7e0f6b8beb9
+19	231	7497615162397562	CMakeFiles/Prog_MariaAbreu_2020130937.dir/menus.c.obj	3eb97727f6a94ec3
+1	245	7497615162517548	CMakeFiles/Prog_MariaAbreu_2020130937.dir/guardaJogadas.c.obj	ca3a4c7b8864d01f
+13	246	7497615162537642	CMakeFiles/Prog_MariaAbreu_2020130937.dir/tabuleiro.c.obj	56c0692de6831eb4
+31	266	7497615162921697	CMakeFiles/Prog_MariaAbreu_2020130937.dir/jogo.c.obj	8aeb9066acdbfaa8
+39	252	7497615162517548	CMakeFiles/Prog_MariaAbreu_2020130937.dir/utils.c.obj	8a1a73bc43d47914
+7	254	7497615162487586	CMakeFiles/Prog_MariaAbreu_2020130937.dir/interromperJogo.c.obj	760c9727b2f08b27
+25	259	7497615162731734	CMakeFiles/Prog_MariaAbreu_2020130937.dir/main.c.obj	6c8f91085f9ddd92
+267	494	7497615165131430	Prog_MariaAbreu_2020130937.exe	274720d221f1313f
